@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1651178895 source:c:\users\hp\documents\td1\my_projet\mini_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"club.h"
+	<tchar.h>
+	<windows.h>
+	<conio.h>
+
+1651175104 c:\users\hp\documents\td1\my_projet\mini_projet\club.h
+
+1651180401 source:c:\users\hp\documents\td1\my_projet\mini_projet\club.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<malloc.h>
+	"club.h"
+	<string.h>
+	<myconio.h>
+
